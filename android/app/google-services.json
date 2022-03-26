@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "228509992278",
+    "project_id": "barberz-5ba8e",
+    "storage_bucket": "barberz-5ba8e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:228509992278:android:ae4312896df2953d3642f7",
+        "android_client_info": {
+          "package_name": "com.jgo.barberz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "228509992278-rtcn634rqst4n27kjcl896god9oe3tlv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4FbCK6CgrGrkXPFBD9AwUNIqjtAxnVro"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "228509992278-rtcn634rqst4n27kjcl896god9oe3tlv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "228509992278-n6fkr7h516iu89frnlipvh5426gckplg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.jgo.barberz"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
